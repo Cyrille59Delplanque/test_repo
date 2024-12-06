@@ -1,0 +1,13 @@
+# fichiers de class compilés
+*.class
+# Fichiers logs
+*.log
+# Package
+*.jar
+*.war
+# répertoire secret
+secrets/
+# fichier api à exclure
+api.txt
+
+
